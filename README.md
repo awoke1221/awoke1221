@@ -16,7 +16,7 @@ frontend and a production-grade worker service.
 - **Full audit logging** for every agent run
 - **Zod-based validation** across the stack
 
-[→ View the repo](#) &nbsp;|&nbsp; [→ Watch the demo](#)
+[→ View the repo](https://github.com/awoke1221/Denbegaye-Agent) &nbsp;|&nbsp; [→ Watch the demo](https://denbegaye.vercel.app/)
 
 ## 🛠️ Tech I work with
 
