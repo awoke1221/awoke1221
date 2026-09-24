@@ -4,7 +4,7 @@ AI-native full-stack engineer building agent orchestration systems and
 production web applications. Currently focused on landing a remote role 
 building AI agent products.
 
-## 🚀 Featured Project: Denbegaye Agent
+## 🚀 Featured Project: Denbegnaye Agent
 
 A multi-strategy AI agent orchestration platform with a visual builder 
 frontend and a production-grade worker service.
